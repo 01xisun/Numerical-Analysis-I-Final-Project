@@ -1,5 +1,5 @@
 # Numerical-Analysis-1st-Project
-Analyzed flood band problem by using interpolation method.
+Analyzed flood band problem by using Cubic Spline Interpolation method.
 
 + The py file is the Cubic Spline Interpolation algorithm written in python.
 + The pptx file is the presentation slides.
